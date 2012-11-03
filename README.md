@@ -58,7 +58,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [Sprite generator](http://spritepad.wearekiss.com)
 - [Favicon generator](http://www.favicon.cc)
 - [OnlineGenerator.net](http://onlinegenerator.net/) - icons, loaders, css-loaders
-- [Instant Sprite] http://instantsprite.com/ - Generate CSS Sprites Instantly
+- [Instant Sprite](http://instantsprite.com/) - Generate CSS Sprites Instantly
 
 ## JS
 - [XML to JSON](XML to JSON http://jsontoxml.utilities-online.info)
