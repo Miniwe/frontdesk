@@ -221,6 +221,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [Fontello](http://fontello.com) — iconic fonts scissors
 - [Online Font Converter](http://onlinefontconverter.com)
 - [Check font name by screenshot](http://www.whatfontis.com)
+- [Wordmark.it](http://wordmark.it/) - fonts preview from local system
 
 ## OS X Apps
 - [ColorSnapper](http://colorsnapper.com) - easy-to-use tool for quickly finding out the color of any pixel on the screen
